@@ -1,7 +1,7 @@
 using System;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// A pair of address and its time in the day.

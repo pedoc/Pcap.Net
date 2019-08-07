@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFC 2137.

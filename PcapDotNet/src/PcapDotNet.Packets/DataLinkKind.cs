@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// Represents the different data links kinds.

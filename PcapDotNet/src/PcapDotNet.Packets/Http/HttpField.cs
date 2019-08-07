@@ -1,15 +1,12 @@
 ﻿using System;
-using System.CodeDom;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Globalization;
-using System.IO;
 using System.Linq;
 using System.Text;
-using Microsoft.CSharp;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     /// <summary>
     /// An HTTP field with a name and value.

@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// RFC 792.

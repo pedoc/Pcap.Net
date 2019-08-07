@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// The certificate type for cetificate DNS resource records.

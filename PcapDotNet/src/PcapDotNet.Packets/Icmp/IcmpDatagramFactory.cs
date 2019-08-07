@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using PcapDotNet.Base;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     internal static class IcmpDatagramFactory
     {

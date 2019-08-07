@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Globalization;
 using System.Linq;
-using PcapDotNet.Base;
-using IListExtensions = PcapDotNet.Base.IListExtensions;
+using PcapTools.Base;
+using IListExtensions = PcapTools.Base.IListExtensions;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFC 5205.

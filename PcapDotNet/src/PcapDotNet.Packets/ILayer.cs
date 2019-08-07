@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// The interface of a layer used to build a Packet.

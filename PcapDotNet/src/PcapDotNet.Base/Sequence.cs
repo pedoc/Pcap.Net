@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Useful functions for a sequence of objects.

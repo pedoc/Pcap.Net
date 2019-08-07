@@ -1,6 +1,4 @@
-using System;
-
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// Represents a packet datagram.

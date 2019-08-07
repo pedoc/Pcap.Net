@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\preview\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Namespaces>
+  <Namespace Name="PcapTools.Packets.IpV6">
+   <Messages>
+    <Message TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+     <Issue Certainty="50" Level="Warning">考虑将“PcapTools.Packets.IpV6”中定义的类型与另一个命名空间合并。</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="C:\Users\pedoc\source\repos\PacketForwarder\Pcap.Net\PcapDotNet\src\PcapDotNet.Packets\bin\Debug\PcapTools.Packets.dll">
+   <Modules>
+    <Module Name="pcaptools.packets.dll">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">用强名称密钥对 'PcapTools.Packets.dll' 进行签名。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="PcapTools.Packets.Arp">
+       <Types>
+        <Type Name="ArpHardwareType" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#AmateurRadioAx25" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Ax" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'ArpHardwareType.AmateurRadioAx25' 中“Ax”的大小写，将其改为“AX”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PcapTools.Packets.Dns">
+       <Types>
+        <Type Name="DnsAlgorithm" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#RsaMd5" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Md" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'DnsAlgorithm.RsaMd5' 中“Md”的大小写，将其改为“MD”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DnsResponseCode" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#YxDomain" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Yx" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'DnsResponseCode.YxDomain' 中“Yx”的大小写，将其改为“YX”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#YxResourceRecordSet" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Yx" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'DnsResponseCode.YxResourceRecordSet' 中“Yx”的大小写，将其改为“YX”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DnsType" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Md" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Md" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'DnsType.Md' 中“Md”的大小写，将其改为“MD”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PcapTools.Packets.IpV4">
+       <Types>
+        <Type Name="IpV4Protocol" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Ax25" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Ax" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'IpV4Protocol.Ax25' 中“Ax”的大小写，将其改为“AX”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Il" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Il" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'IpV4Protocol.Il' 中“Il”的大小写，将其改为“IL”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PcapTools.Packets.IpV6">
+       <Types>
+        <Type Name="IpV6BindingAcknowledgementStatus" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#MultipleCareOfAddressesReturnHomeWoNeighborDiscoveryProtocol" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Wo" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'IpV6BindingAcknowledgementStatus.MultipleCareOfAddressesReturnHomeWoNeighborDiscoveryProtocol' 中“Wo”的大小写，将其改为“WO”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PcapTools.Packets.IpV6.Options">
+       <Types>
+        <Type Name="IpV6AccessTechnologyType" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#WiMax" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Wi" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'IpV6AccessTechnologyType.WiMax' 中“Wi”的大小写，将其改为“WI”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="IpV6MobilityOptionBindingAuthorizationDataForFmIpV6" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="Fm" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="85" Level="Error">更正类型名称 'IpV6MobilityOptionBindingAuthorizationDataForFmIpV6' 中“Fm”的大小写，将其改为“FM”。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="IpV6MobilityOptionType" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BindingAuthorizationDataForFmIpV6" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Fm" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'IpV6MobilityOptionType.BindingAuthorizationDataForFmIpV6' 中“Fm”的大小写，将其改为“FM”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PcapTools.Packets.Transport">
+       <Types>
+        <Type Name="TcpOptionMd5Signature" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="Md" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="85" Level="Error">更正类型名称 'TcpOptionMd5Signature' 中“Md”的大小写，将其改为“MD”。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="TcpOptionType" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Md5Signature" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Md" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2019-08-07 07:38:45Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">更正成员名称 'TcpOptionType.Md5Signature' 中“Md”的大小写，将其改为“MD”。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>程序集应具有有效的强名称</Name>
+   <Description>程序集没有强名称，强名称无效，或者强名称只有经过计算机配置后才有效。不应部署处于这种状态的程序集。出现这种情况最常见原因有: 1) 对程序集进行签名后，修改了该程序集的内容；2) 签名过程失败；3) 延迟了程序集签名；4) 存在一个允许检查通过(原本不应通过)的注册表项。</Description>
+   <Resolution Name="NoStrongName">用强名称密钥对 {0} 进行签名。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020">
+   <Name>避免使用类型极少的命名空间</Name>
+   <Description>命名空间一般应具有五个以上的类型。</Description>
+   <Resolution Name="Default">考虑将“{0}”中定义的类型与另一个命名空间合并。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182130.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>标识符的大小写应当正确</Name>
+   <Description>类型、命名空间和成员标识符应采用 Pascal 大小写格式。参数标识符应采用 Camel 大小写格式。这些标识符内由两个字母组成的首字母缩略词应全部大写，例如，应采用 System.IO，而不是 System.Io。由三个或更多个字母组成的首字母缩略词应采用 Pascal 大小写格式，例如，应采用 System.Xml，而不是 System.XML。Pascal 大小写格式约定每个单词的首字母大写，如 BackColor。Camel 大小写格式约定第一个单词的首字母小写，所有后续单词的首字母都大写，如 backgroundColor。尽管有些由两个字母组成的首字母缩略词习惯采用不完全大写形式，但不能因此而排斥此规则。例如，“DbConnection”很常见，但并不正确，应采用 DBConnection。为了与现有的非托管符号方案兼容，可能需要违反此规则。但一般来说，这些符号在使用它们的程序集之外不可见。</Description>
+   <Resolution Name="Member">更正成员名称 {1} 中“{0}”的大小写，将其改为“{2}”。</Resolution>
+   <Resolution Name="Type">更正类型名称 {1} 中“{0}”的大小写，将其改为“{2}”。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">类别</String>
+  <String Key="Certainty">确定性</String>
+  <String Key="CollapseAll">全部折叠</String>
+  <String Key="CheckId">检查 ID</String>
+  <String Key="Error">错误</String>
+  <String Key="Errors">错误</String>
+  <String Key="ExpandAll">全部展开</String>
+  <String Key="Help">帮助</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">消息</String>
+  <String Key="LocationNotStoredInPdb">[位置未存储在 Pdb 中]</String>
+  <String Key="Project">项目</String>
+  <String Key="Resolution">解析</String>
+  <String Key="Rule">规则</String>
+  <String Key="RuleFile">规则文件</String>
+  <String Key="RuleDescription">规则说明</String>
+  <String Key="Source">源</String>
+  <String Key="Status">状态</String>
+  <String Key="Target">目标</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">代码分析报告</String>
+ </Localized>
+</FxCopReport>

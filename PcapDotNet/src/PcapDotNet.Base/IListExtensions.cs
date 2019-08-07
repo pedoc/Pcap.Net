@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for IList of type T.

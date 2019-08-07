@@ -1,8 +1,9 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Represents IPv4 layer.

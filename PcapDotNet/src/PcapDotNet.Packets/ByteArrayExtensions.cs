@@ -1,17 +1,16 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
 using System.Net;
 using System.Numerics;
 using System.Text;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.Http;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.Http;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// Extension methods for byte[].

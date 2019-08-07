@@ -1,9 +1,7 @@
-using System;
-using System.Collections.Generic;
 using System.Globalization;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFC 1035.

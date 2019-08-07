@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 using System.Linq;
+using System.Text.RegularExpressions;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for Match class.

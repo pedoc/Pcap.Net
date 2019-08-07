@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Represents the time passed since midnight UT.

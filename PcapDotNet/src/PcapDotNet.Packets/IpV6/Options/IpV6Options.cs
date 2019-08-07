@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// List of IPv6 options for some of the IPv6 extension headers.

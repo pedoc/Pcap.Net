@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// RFCs 6088, 6089.

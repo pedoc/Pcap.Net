@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Transport
+﻿namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// An emotion that can be set in a TCP mood option.

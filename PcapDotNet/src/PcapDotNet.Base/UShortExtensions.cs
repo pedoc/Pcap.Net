@@ -1,6 +1,4 @@
-using System;
-
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension method for UShort structure.

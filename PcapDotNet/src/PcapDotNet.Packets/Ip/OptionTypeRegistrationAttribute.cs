@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     internal abstract class OptionTypeRegistrationAttribute : Attribute
     {

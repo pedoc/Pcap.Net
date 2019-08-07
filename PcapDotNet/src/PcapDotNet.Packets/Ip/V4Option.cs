@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// Either an IPv4 option or a TCP option.

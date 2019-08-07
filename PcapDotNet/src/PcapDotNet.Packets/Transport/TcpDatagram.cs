@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using PcapDotNet.Packets.Http;
+using PcapTools.Packets.Http;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// RFC 793.

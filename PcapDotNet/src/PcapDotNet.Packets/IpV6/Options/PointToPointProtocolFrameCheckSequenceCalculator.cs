@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// RFC 1662.

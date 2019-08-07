@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// The different ICMP message types.

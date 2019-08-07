@@ -1,6 +1,4 @@
-using System;
-
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// The base class for connection count TCP options.

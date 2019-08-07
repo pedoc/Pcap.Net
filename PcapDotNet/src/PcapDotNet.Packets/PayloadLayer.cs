@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// Represents a layer that adds a simple payload.

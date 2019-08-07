@@ -1,8 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     internal class ListSegment<T> : IEnumerable<T>
     {

@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// The ICMP code values for Traceroute ICMP type.

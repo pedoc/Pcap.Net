@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// IEEE 802.1Q.

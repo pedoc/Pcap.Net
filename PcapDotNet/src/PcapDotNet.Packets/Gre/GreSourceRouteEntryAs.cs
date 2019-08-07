@@ -1,8 +1,8 @@
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// RFC 1702.

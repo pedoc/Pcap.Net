@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// RFC 5846.

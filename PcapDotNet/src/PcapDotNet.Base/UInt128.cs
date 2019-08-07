@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Numerics;
 using System.Runtime.InteropServices;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// A 128 bit unsigned integer.

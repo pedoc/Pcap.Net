@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// Identifies the public key's cryptographic algorithm and determines the format of the public key field.

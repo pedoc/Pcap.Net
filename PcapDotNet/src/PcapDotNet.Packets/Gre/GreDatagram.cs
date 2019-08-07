@@ -2,11 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Packets.Arp;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.Ethernet;
 
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// RFC 1701, RFC 1702, RFC 2637, RFC 2784.

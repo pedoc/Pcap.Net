@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// Defines when and how to compress DNS domain names when creating a DNS datagram.

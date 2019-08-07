@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     /// <summary>
     /// RFC 2616.

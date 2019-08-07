@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// EtherType is a two-octet field in an Ethernet frame, as defined by the Ethernet II framing networking standard. 

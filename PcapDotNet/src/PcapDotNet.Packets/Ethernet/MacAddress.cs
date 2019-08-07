@@ -1,8 +1,8 @@
 using System;
 using System.Globalization;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// Ethernet MacAddress struct.

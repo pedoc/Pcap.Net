@@ -1,8 +1,8 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// RFC 6089.

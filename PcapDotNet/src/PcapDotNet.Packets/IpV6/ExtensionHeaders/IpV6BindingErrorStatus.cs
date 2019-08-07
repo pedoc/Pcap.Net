@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// Binding Error Status for Mobility Binding Error IPv6 Extension Header.

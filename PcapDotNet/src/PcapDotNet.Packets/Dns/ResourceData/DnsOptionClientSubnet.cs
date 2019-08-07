@@ -1,6 +1,6 @@
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// https://tools.ietf.org/html/draft-ietf-dnsop-edns-client-subnet

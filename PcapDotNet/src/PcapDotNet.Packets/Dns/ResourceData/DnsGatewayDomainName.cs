@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A gateway that is represented using a domain name.

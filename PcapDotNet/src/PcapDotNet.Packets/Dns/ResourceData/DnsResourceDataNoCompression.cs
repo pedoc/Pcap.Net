@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A DNS resource record type that any domain name that it contains should not be compressed when written.

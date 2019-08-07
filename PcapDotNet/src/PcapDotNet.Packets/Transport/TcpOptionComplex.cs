@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// Represents a complex TCP option.

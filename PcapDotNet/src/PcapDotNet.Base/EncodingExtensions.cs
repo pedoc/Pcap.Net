@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for Encoding class.

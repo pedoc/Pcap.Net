@@ -1,8 +1,7 @@
 ﻿using System;
-using PcapDotNet.Packets.Ip;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets.IpV4
 {
     internal sealed class IpV4OptionTypeRegistrationAttribute : OptionTypeRegistrationAttribute
     {

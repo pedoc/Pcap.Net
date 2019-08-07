@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Http
+﻿namespace PcapTools.Packets.Http
 {
     internal static class AsciiBytes
     {

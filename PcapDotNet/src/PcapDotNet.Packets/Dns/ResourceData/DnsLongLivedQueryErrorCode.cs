@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// The DNS LLQ Error code values.

@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Represents a timestamp IPv4 option with only the timestamps.

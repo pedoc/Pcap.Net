@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Fragmentation information flags for IPv4 datagram.

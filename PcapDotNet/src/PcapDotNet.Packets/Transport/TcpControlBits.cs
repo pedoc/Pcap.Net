@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// TCP control bits format

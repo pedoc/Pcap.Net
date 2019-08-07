@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Represents a complex IPv4 option.

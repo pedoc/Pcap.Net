@@ -1,8 +1,8 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// This option identifies the U.S. classification level at which the datagram is to be protected 

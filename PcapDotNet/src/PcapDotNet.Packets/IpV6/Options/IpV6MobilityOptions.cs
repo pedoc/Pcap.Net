@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// Set of Mobility options for IPv6 Mobility Extension Header.

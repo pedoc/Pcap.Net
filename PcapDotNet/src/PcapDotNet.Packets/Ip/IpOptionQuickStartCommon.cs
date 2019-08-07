@@ -1,8 +1,8 @@
 using System;
 using System.Globalization;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// Contains common QuickStart option parameters.

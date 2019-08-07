@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// Base class for different IPv6 options types.

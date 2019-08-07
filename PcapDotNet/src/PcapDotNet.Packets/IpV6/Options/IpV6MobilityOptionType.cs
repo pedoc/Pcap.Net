@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// Type of an IPv6 Mobility option.

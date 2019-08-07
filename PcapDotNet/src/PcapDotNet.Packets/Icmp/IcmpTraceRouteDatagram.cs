@@ -1,7 +1,7 @@
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// RFC 1393.

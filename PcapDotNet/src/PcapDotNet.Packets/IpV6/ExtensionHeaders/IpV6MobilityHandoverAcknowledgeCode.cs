@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// Handover Acknowledge Code for IPv6 Mobility Handover Acknowledge Message Extension Header.

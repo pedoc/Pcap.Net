@@ -1,9 +1,9 @@
-﻿using PcapDotNet.Packets.Arp;
-using PcapDotNet.Packets.Ip;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.IpV6;
+﻿using PcapTools.Packets.Arp;
+using PcapTools.Packets.Ip;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// Base class for all datagrams that behave like Ethernet.

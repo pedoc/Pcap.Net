@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// Represents a source route entry consisting of an unknown data.

@@ -1,6 +1,6 @@
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// Represents an ICMP layer with an Identifier and a Sequence Number.

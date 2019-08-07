@@ -1,8 +1,9 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// Contains the common part of UDP and TCP layers.

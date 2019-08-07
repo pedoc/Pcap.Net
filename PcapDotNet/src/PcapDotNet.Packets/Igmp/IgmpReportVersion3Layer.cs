@@ -1,9 +1,9 @@
 using System;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// RFC 3376.

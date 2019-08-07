@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Runtime.InteropServices;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// A 48 bit unsigned integer.

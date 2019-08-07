@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// Base class for different IPv4 options.

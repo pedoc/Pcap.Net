@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Arp
+namespace PcapTools.Packets.Arp
 {
     /// <summary>
     /// Specifies the operation the ARP sender is performing.

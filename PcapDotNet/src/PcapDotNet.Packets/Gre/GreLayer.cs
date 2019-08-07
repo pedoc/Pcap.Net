@@ -1,11 +1,12 @@
 using System;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.Ip;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// Represents a GRE layer.

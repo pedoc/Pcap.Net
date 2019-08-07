@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
 using System.Text;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Represents an IPv4 address.

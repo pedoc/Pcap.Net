@@ -1,6 +1,6 @@
-using PcapDotNet.Packets.Dns;
+using PcapTools.Packets.Dns;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// RFC 768.

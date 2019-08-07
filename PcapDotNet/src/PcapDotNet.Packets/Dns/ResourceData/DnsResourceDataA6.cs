@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Base;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFC 2874.

@@ -1,6 +1,4 @@
-using System;
-
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Useful functions for sequences of bits.

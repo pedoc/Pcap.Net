@@ -1,8 +1,6 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// The base class of a layer used to build a Packet.

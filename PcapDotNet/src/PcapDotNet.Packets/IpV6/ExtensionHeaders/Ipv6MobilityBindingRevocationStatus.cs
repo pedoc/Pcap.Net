@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// Values of the Status field less than 128 indicate that the Binding Revocation Indication was processed successfully by the responder.

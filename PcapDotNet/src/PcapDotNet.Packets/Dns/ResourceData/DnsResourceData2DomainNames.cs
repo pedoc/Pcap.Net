@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A resource record data that contains exactly 2 domain names.

@@ -1,10 +1,10 @@
 using System;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
 
-namespace PcapDotNet.Packets.Arp
+namespace PcapTools.Packets.Arp
 {
     /// <summary>
     /// Represents an ARP protocol layer.

@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Arp
+namespace PcapTools.Packets.Arp
 {
     /// <summary>
     /// A layer that contains an ARP layer.

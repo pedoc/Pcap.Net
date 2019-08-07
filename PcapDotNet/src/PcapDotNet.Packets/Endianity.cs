@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// The two possible endianities.

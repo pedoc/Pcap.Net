@@ -1,8 +1,6 @@
-using System;
-using System.Globalization;
 using System.Linq;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for String.

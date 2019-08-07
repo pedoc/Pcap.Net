@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// Used to represent an ICMP datagram with an unknown message type.

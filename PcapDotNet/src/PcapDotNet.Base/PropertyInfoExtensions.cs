@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for PropertyInfo.

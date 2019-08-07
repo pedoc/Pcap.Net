@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Arp
+namespace PcapTools.Packets.Arp
 {
     /// <summary>
     /// The data link layer protocol of the ARP protocol.

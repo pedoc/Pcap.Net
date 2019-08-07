@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     internal sealed class IpV6OptionTypeRegistrationAttribute : Attribute
     {

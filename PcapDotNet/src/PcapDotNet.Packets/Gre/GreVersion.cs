@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// The GRE Version Number.

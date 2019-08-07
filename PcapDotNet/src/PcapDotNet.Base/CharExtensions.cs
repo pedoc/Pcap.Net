@@ -1,4 +1,4 @@
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for char structure.

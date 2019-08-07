@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// RFC 1112.

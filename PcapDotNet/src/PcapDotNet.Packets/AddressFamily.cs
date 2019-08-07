@@ -1,4 +1,4 @@
-﻿namespace PcapDotNet.Packets
+﻿namespace PcapTools.Packets
 {
     /// <summary>
     ///  RFCs 2453, 2858, 4761, 6074.

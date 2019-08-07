@@ -1,11 +1,11 @@
-using PcapDotNet.Packets.Gre;
-using PcapDotNet.Packets.Icmp;
-using PcapDotNet.Packets.Igmp;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.IpV6;
-using PcapDotNet.Packets.Transport;
+using PcapTools.Packets.Gre;
+using PcapTools.Packets.Icmp;
+using PcapTools.Packets.Igmp;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6;
+using PcapTools.Packets.Transport;
 
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// RFCs 791, 2460.

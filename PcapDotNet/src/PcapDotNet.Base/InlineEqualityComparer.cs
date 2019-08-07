@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// An equality comparer that is implemented using the given equals and getHashCode functions.

@@ -1,18 +1,18 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Arp
+namespace PcapTools.Packets.Arp
 {
     /// <summary>
     /// The following is the packet structure used for ARP requests and replies. 
     /// On Ethernet networks, these packets use an EtherType of 0x0806, and are sent to the broadcast MAC address of FF:FF:FF:FF:FF:FF. 
     /// Note that the EtherType (0x0806) is used in the Ethernet header, and should not be used as the PTYPE of the ARP packet. 
     /// The ARP type (0x0806) should never be used in the PTYPE field of an ARP packet, since a hardware protocol address should never be linked to the ARP protocol. 
-    /// Note that the packet structure shown in the table has SHA and THA as 48-bit fields and SPA and TPA as 32-bit fields but this is just for convenience — 
+    /// Note that the packet structure shown in the table has SHA and THA as 48-bit fields and SPA and TPA as 32-bit fields but this is just for convenience ?
     /// their actual lengths are determined by the hardware &amp; protocol length fields.
     /// <pre>
     /// +-----+------------------------+------------------------+-----------------------------------------------+

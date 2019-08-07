@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension method for Short structure.

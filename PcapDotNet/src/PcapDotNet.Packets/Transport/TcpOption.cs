@@ -1,9 +1,8 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// Represents a TCP option according to rfc 793. 

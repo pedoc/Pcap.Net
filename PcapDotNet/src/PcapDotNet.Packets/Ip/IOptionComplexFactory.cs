@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// This interface is used to create all complex options.

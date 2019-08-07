@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// A generic option (for IPv4, IPv6 and TCP).

@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     /// <summary>
     /// HTTP request method.

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// A collection of TCP options.

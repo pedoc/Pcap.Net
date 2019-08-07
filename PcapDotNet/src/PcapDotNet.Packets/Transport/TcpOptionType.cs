@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// An enum for all the different tcp option types.

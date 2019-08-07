@@ -1,7 +1,7 @@
 ﻿using System;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A base class for any resource data that contains a 16 bit unsigned integer followed by a domain name.

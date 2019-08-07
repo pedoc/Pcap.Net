@@ -1,8 +1,8 @@
 using System;
 using System.Collections.ObjectModel;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// Each Group Record is a block of fields containing information pertaining 

@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ip
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// A factory interface for an unknown option.

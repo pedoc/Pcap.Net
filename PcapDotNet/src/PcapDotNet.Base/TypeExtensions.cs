@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// Extension methods for Type.

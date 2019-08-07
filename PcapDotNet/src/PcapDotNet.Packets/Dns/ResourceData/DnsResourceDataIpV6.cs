@@ -1,7 +1,7 @@
 ﻿using System;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFC 3596.

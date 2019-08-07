@@ -1,8 +1,8 @@
 using System;
 using System.Globalization;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// RFC 6757.

@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Gre
+namespace PcapTools.Packets.Gre
 {
     /// <summary>
     /// A value representing the syntax and semantics of the Routing Information field.  

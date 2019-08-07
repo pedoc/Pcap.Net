@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     internal sealed class IcmpDatagramRegistrationAttribute : Attribute
     {

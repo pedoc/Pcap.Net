@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// RFC 2236.

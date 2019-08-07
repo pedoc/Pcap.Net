@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// Binding Revocation Type of a Binding Revocation Message IPv6 Extension Header.

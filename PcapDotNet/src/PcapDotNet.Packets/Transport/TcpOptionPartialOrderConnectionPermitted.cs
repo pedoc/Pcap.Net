@@ -1,7 +1,6 @@
-using System;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// TCP POC-permitted Option (RFC 1693)

@@ -1,9 +1,9 @@
 using System.Linq;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.Transport;
+using PcapTools.Base;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.Transport;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// RFC 1475.

@@ -3,15 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-using System.Linq;
 using System.Numerics;
 using System.Text;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// Represents segement of a byte array.

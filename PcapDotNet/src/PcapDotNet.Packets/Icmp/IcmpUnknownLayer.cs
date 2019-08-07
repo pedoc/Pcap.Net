@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// Represents an ICMP layer with an unknown message type.

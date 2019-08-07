@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// The type of the checksum to be used.

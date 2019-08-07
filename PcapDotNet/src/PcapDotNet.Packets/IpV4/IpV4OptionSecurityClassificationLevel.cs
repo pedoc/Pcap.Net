@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// This field specifies the (U.S.) classification level at which the datagram must be protected.  

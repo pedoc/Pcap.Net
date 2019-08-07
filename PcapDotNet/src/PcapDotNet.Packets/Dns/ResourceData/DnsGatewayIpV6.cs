@@ -1,7 +1,7 @@
 ﻿using System;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// Represents an IPv6 gateway to which an IPsec tunnel may be created in order to reach the entity named by an IPsec resource record.

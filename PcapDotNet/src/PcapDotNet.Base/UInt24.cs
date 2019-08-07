@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 using System.Runtime.InteropServices;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// A 24 bit unsigned integer.

@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     /// <summary>
     /// RFC 2616.

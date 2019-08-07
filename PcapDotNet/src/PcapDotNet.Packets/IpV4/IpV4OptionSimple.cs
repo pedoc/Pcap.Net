@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// A simple IPv4 option - holds only the type.

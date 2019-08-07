@@ -1,6 +1,6 @@
 using System;
 
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// Represents an Ethernet datagram.

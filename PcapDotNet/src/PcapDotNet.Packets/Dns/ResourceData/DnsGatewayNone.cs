@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A gateway representation that represents that no gateway is present.

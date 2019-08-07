@@ -1,8 +1,7 @@
 ﻿using System;
-using PcapDotNet.Packets.Ip;
-using PcapDotNet.Packets.Transport;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets.Transport
 {
     internal sealed class TcpOptionTypeRegistrationAttribute : OptionTypeRegistrationAttribute
     {

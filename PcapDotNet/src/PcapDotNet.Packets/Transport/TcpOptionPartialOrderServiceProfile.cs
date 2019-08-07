@@ -1,8 +1,7 @@
-using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Base;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// TCP POC-service-profile Option (RFC 1693).

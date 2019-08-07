@@ -1,7 +1,7 @@
 using System;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// Base class for all IGMP layers of version 1 or higher.

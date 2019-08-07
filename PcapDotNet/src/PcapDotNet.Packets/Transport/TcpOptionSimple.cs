@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// A simple TCP option - holds only the type.

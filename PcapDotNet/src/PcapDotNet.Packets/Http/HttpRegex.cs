@@ -1,9 +1,9 @@
 ﻿using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     internal static class HttpRegex
     {

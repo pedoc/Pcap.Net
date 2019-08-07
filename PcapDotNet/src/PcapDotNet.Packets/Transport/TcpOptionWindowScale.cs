@@ -1,7 +1,6 @@
-using System;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// Window Scale Option (RFC 1323)

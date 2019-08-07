@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Igmp
+namespace PcapTools.Packets.Igmp
 {
     /// <summary>
     /// The code of the IGMP message for Create Group Request (RFC988).

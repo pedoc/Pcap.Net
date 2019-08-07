@@ -1,12 +1,10 @@
 using System;
 using System.Collections.ObjectModel;
-using System.Diagnostics;
-using System.Globalization;
 using System.Linq;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// RFC 2460.

@@ -1,7 +1,7 @@
 ﻿using System;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFCs 3757, 4034, 5011.

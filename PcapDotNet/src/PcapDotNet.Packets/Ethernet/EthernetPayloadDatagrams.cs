@@ -1,8 +1,8 @@
-using PcapDotNet.Packets.Arp;
-using PcapDotNet.Packets.IpV4;
-using PcapDotNet.Packets.IpV6;
+using PcapTools.Packets.Arp;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6;
 
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     internal class EthernetPayloadDatagrams
     {

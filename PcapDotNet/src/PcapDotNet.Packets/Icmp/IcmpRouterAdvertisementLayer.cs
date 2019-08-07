@@ -2,7 +2,7 @@ using System;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// RFC 1256.

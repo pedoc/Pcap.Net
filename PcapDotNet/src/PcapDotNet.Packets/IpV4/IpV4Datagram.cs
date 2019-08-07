@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Packets.Gre;
-using PcapDotNet.Packets.Icmp;
-using PcapDotNet.Packets.Igmp;
-using PcapDotNet.Packets.Ip;
-using PcapDotNet.Packets.Transport;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// RFC 791.

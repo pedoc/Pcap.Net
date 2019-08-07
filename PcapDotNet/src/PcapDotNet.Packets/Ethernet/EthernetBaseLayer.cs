@@ -1,7 +1,7 @@
 ﻿using System;
-using PcapDotNet.Packets.Arp;
+using PcapTools.Packets.Arp;
 
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// A base class for Ethernet like layers.

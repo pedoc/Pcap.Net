@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// The option-type octet is viewed as having 3 fields:

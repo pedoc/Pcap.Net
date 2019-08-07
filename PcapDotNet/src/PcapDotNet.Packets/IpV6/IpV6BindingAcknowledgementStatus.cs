@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6
 {
     /// <summary>
     /// The Binidng Acknowledgement status in an IPv6 Mobility Binding Acknowledgement extension header.

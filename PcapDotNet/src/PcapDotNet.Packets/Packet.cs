@@ -2,11 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ethernet;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.Ethernet;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets
+namespace PcapTools.Packets
 {
     /// <summary>
     /// A raw packet.

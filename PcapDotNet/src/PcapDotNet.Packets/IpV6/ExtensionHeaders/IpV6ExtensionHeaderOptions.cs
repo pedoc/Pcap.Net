@@ -1,7 +1,7 @@
-using System;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.IpV4;
+using PcapTools.Packets.IpV6.Options;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.ExtensionHeaders
 {
     /// <summary>
     /// RFC 2460.

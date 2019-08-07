@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Transport
+namespace PcapTools.Packets.Transport
 {
     /// <summary>
     /// Contains the common part of UDP and TCP.

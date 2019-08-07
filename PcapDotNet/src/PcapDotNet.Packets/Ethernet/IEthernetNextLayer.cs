@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.Ethernet
+namespace PcapTools.Packets.Ethernet
 {
     /// <summary>
     /// A layer under an Ethernet layer.

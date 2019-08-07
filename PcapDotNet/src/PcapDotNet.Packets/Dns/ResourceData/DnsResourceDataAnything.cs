@@ -1,7 +1,6 @@
 ﻿using System;
-using PcapDotNet.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// A resource data that can hold any data.

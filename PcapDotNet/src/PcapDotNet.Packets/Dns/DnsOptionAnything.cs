@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace PcapDotNet.Packets.Dns
+﻿namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// An option that can hold any data.

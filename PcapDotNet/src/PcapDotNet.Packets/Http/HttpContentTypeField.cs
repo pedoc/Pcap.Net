@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections.ObjectModel;
 using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     /// <summary>
     /// RFC 2616.

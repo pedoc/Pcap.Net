@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Linq;
 using System.Text;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.Dns
+namespace PcapTools.Packets.Dns
 {
     /// <summary>
     /// RFCs 2915, 3403.

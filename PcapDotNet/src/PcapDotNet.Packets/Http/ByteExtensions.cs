@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace PcapDotNet.Packets.Http
+namespace PcapTools.Packets.Http
 {
     internal static class ByteExtensions
     {

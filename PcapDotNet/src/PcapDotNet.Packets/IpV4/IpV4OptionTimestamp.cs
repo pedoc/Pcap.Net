@@ -1,8 +1,7 @@
 using System;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.Ip;
+using PcapTools.Packets.Ip;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Internet Timestamp

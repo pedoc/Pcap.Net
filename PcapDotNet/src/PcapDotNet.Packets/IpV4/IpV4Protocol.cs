@@ -1,4 +1,4 @@
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     /// <summary>
     /// Indicates the next level IPv4 protocol used in the pyaload of the IPv4 datagram.

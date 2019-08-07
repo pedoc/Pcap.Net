@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using PcapDotNet.Base;
+using PcapTools.Base;
 
-namespace PcapDotNet.Packets.IpV4
+namespace PcapTools.Packets.IpV4
 {
     ///<summary>
     /// Represents a timestamp IPv4 option with each timestamp preceded with internet address of the registering entity or the internet address fields are prespecified.

@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
-using PcapDotNet.Base;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Base;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.IpV6
+namespace PcapTools.Packets.IpV6.Options
 {
     /// <summary>
     /// RFCs 5648, 6089.

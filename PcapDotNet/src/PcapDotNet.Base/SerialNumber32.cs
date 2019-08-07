@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace PcapDotNet.Base
+namespace PcapTools.Base
 {
     /// <summary>
     /// A 32 bit serial number as defined in RFC 1982.

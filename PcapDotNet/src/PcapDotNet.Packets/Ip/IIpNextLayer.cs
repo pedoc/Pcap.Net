@@ -1,4 +1,6 @@
-namespace PcapDotNet.Packets.IpV4
+using PcapTools.Packets.IpV4;
+
+namespace PcapTools.Packets.Ip
 {
     /// <summary>
     /// A layer under an IP layer.

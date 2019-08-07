@@ -1,7 +1,7 @@
 using System;
-using PcapDotNet.Packets.IpV4;
+using PcapTools.Packets.IpV4;
 
-namespace PcapDotNet.Packets.Icmp
+namespace PcapTools.Packets.Icmp
 {
     /// <summary>
     /// <pre>
